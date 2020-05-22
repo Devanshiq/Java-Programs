@@ -1,4 +1,4 @@
-package com.dla;
+package javapractice;
 import java.util.*;
 
 /**
@@ -24,4 +24,3 @@ public class SumAndAverage {
 	}
 
 }
-

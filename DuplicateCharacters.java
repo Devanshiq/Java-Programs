@@ -1,12 +1,12 @@
-package com.dla;
+package javapractice;
 
-import java.util.Scanner;
+import java.util.*;
 
 /**
  * @author DevLabs Alliance
  *
  */
-// java program to find duplicate characters in a string
+//java program to find duplicate characters in a string
 public class DuplicateCharacters {
 
 	public static void main(String[] args) {
